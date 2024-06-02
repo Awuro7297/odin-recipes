@@ -1,0 +1,25 @@
+a{
+    background-color: rgb(26, 50, 56);
+    color: white;
+}
+
+h1{
+    background-color: aquamarine;
+}
+
+li{
+    font-size: 24px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 24px;
+}
+
+.las-img{
+    height: 200px;
+    width: auto;
+}
